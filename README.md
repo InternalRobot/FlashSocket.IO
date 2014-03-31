@@ -8,5 +8,4 @@ iOS
 Web
 
 ## SocketIO
-set ip/domain and port in GlobalVars
-/app/global/GlobalVars
+set ip/domain and port in /app/global/GlobalVars
