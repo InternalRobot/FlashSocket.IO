@@ -1,16 +1,12 @@
 # FlashSocket.IO
-
-
 #### Flash/AS3 implementation of simb/FlashSocket.IO
 
 
-### Includes 
-
+## Includes 
 Android
 iOS
 Web
 
-### SocketIO
-
+## SocketIO
 set ip/domain and port in GlobalVars
 /app/global/GlobalVars
